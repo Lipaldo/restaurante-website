@@ -1,2 +1,3 @@
 # restaurante-website
-Um site para restaurante
+Projeto de site de Restaurante conpleto e responsivo, utilizados slides show!
+Apresentando também cardápio e nome da equipe, reserva de mesas, últimas notícias, cadastro e rede socias
